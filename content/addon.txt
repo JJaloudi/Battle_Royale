@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Deal With It - Turn Down For What - Glasses / ÓculosDeal With It - Turn Down For What - Glasses / Óculos"
+	"author_name" "Author Name"
+	"info" " { 	"description": "Description", 	"type": "model", 	"tags":  	[ 		"comic", 		"fun" 	] }"
+}

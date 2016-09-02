@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"base"
+    "title"  "Battle Royale"
+    "version"   "1"
+    "menusystem"	"1"
+
+    "author_name"   "Jayzor"
+    "author_email"  ""
+    "author_url"    ""
+
+    "maps"  ""
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
